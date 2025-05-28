@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Hi there 👋
+## Welcome to my github profile...
+as of this writing, I am starting my journey in learning git and github.
+I only have the basics and far from the skills of a real developer.
+I will keep learning and gain knowledge on the essentials.
 <!--
 **skyedurano31/skyedurano31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
